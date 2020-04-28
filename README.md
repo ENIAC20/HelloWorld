@@ -1,2 +1,4 @@
 # HelloWorld
-Just my first repository
+Just my first repository.
+I come from China.
+Nothing important else.
