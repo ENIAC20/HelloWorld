@@ -1,4 +1,4 @@
 # HelloWorld
 Just my first repository.
-I come from China.
+I'm poor at English.
 Nothing important else.
